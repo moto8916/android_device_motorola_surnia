@@ -1,0 +1,3 @@
+add_lunch_combo pac_surnia-user
+add_lunch_combo pac_surnia-userdebug
+add_lunch_combo pac_surnia-eng
